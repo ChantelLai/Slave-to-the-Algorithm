@@ -2,4 +2,4 @@
 
 __Group Activity__
 
-Creating parametres to produce artwork determined by dice. Our group's parametres were shapes, colours, position on the page and weight of the outline.
+Creating parametres to produce artwork determined by dice. Our group's parametres were shapes, colours, position on the page and weight of stroke. 
