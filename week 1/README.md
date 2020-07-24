@@ -1,4 +1,4 @@
-# Week 1 Summary 
+**Week 1 Summary**
 
 ## Group Activity 
 
