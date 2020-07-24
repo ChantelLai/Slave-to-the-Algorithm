@@ -1,5 +1,5 @@
-**Week 1 Summary**
+# Week 1 Summary
 
-## Group Activity 
+__Group Activity__
 
 Creating parametres to produce artwork determined by dice
