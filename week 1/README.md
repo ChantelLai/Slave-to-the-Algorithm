@@ -1,6 +1,6 @@
 # Week 1 Intro
 
-__What am I getting myself into...__
+__What is Generative Design__
 
 I have never explored the thought of coding or even the topic of generative design before viewing the studio options. Being exposed to a new world of design can be scary and intimidating, especially when it comes to technology. However, getting my head around of generative design is actually fascinating! The many possibilities that you produce within generative/parametre design is unlimited. From Karen comparing generative design to making breakfast in the morning was a really good example for me to understand what it is. Having parametres and a system of everyday life is already generative design. 
 
