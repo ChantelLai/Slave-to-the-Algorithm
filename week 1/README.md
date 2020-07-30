@@ -6,6 +6,6 @@ I have never explored the thought of coding or even the topic of generative desi
 
 To further understand the concept of generative/parametre design, we completed a group activity in class. The activity was to create parametres to produce an art piece determined by dice. Therefore, making an algorithm from parametres. Our group's parametres were shapes, colours, composition and weight of stroke. After viewing everyones work I've learnt about how creative you can be with this activity. This activity gave me an outlook of what direction I want to take creativitly. 
 
-From the examples that Karen showed, im really interested in interactive and animation design, so I would want to produce maybe something in the realm of this for my pitch and major project. However, I still need to research further of artists and designs to get ideas and inspiration. I've always been really curious about coding so im excited to see what the rest of this studio offers!
+From the examples that Karen showed, im really interested in interactive and animation design, so I would want to produce maybe something in the realm of this that personally means something for my pitch and major project. However, I still need to research further of artists and designs to get ideas and inspiration. I've always been really curious about coding so im excited to see what the rest of this studio offers!
 
 
