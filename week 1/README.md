@@ -9,3 +9,4 @@ To further understand the concept of generative/parametre design, we completed a
 From the examples that Karen showed, im really interested in interactive and animation design, so I would want to produce maybe something in the realm of this that personally means something for my pitch and major project. However, I still need to research further of artists and designs to get ideas and inspiration. I've always been really curious about coding so im excited to see what the rest of this studio offers!
 
 
+![](Screen%Shot%2020-07-24at%1.33.06pm.png)
