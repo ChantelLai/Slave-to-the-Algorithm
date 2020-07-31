@@ -9,11 +9,9 @@ __Group Activity__
 
 To further understand the concept of generative/parametre design, we completed a group activity in class. The activity was to create parametres to produce an art piece determined by dice. Therefore, making an algorithm from parametres. Our group's parametres were shapes, colours, composition and weight of stroke. After viewing everyones work I've learnt about how creative you can be with this activity. This activity gave me an outlook of what direction I want to take creativitly. 
 
-__Processing__
-
 __Inspiration / Artists__ 
-From the first class, Karen had shown many artists of generative design that varies in specialty. Raven Kwok caught my eye as his work is animation based. 
 
+From the first class, Karen had shown many artists of generative design that varies in specialty. Raven Kwok caught my eye as his work is animation based. 
 
 __Thoughts__
 
