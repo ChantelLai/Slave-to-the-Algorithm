@@ -7,7 +7,7 @@ In this week's class, we discussed about drawing machines and non human machines
 
 ## Images
 Remix Self Protrait 
-![](Remixportrait.png)
+![](Remixportrait%.png)
 
 Test 1 of non human machine
 ![](IMG_1891.jpg)
