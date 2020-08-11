@@ -24,6 +24,8 @@ __Mark Dorf__
 __Tim Rodenbroeker__
 'Flow'(https://timrodenbroeker.de/projects/flow/) is a 100% code-based abstract short-film, showing a worm-like figure floating through a three-dimensional space. It is based on a so called “visual score”, a graphic that defined the dramaturgy of the the film. 'After releasing the video i was wondering if it is possible to bring “Flow” with some interactivity to the web. Converting the code from Processing to Javascript forced me to rewrite many scenes from the video, but it basically worked.'
 
+## 12 hour Challenge
+Refer to the 12hourchallenge folder
 
 ## Images
 Self Protrait <br/>
