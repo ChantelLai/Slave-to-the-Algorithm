@@ -6,6 +6,10 @@ In this week's class, we discussed about drawing machines and non human machines
 
 
 ## Images
+Remix Self Protrait 
+![](
+
+
 Test 1 of non human machine
 ![](IMG_1891.jpg)
 ![](IMG_1901.jpg)
