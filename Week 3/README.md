@@ -13,7 +13,7 @@ At first when Karen was explaining the activity to create our own non human mach
 
 ## Images
 Remix Self Protrait 
-![](Remixportrait%.png)
+<img src= https://github.com/ChantelLai/Slave-to-the-Algorithm/blob/master/Week%203/Remixportrait%20.png> alt="Remixportrait%20.png" border="0" width="400" height="300"/>
 
 Test 1 of non human machine
 ![](IMG_1891.jpg)
