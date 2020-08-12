@@ -17,12 +17,12 @@ Remix Self Protrait <br/>
 <br/>
 Test 1 of non human machine<br/>
 <img src= https://github.com/ChantelLai/Slave-to-the-Algorithm/blob/master/Week%203/IMG_1891.jpg alt="IMG_1891.jpg" border="0" width="500" height="700"/> <img src= https://github.com/ChantelLai/Slave-to-the-Algorithm/blob/master/Week%203/IMG_1901.jpg alt="IMG_1901.jpg" border="0" width="500" height="700"/>
+<br/>
+<br/>
+Test 2 of non human machine <br/>
+<img src= https://github.com/ChantelLai/Slave-to-the-Algorithm/blob/master/Week%203/IMG_1914.jpg alt="IMG_1914.jpg" border="0" width="500" height="700"/> <img src= https://github.com/ChantelLai/Slave-to-the-Algorithm/blob/master/Week%203/IMG_1916.jpg alt="IMG_1916.jpg" border="0" width="500" height="700"/> 
+<img src= https://github.com/ChantelLai/Slave-to-the-Algorithm/blob/master/Week%203/IMG_1917.jpg alt="IMG_1917.jpg" border="0" width="500" height="700"/>
 
 
-
-Test 2 of non human machine
-![](IMG_1914.jpg)
-![](IMG_1916.jpg)
-![](IMG_1917.jpg)
 
 
