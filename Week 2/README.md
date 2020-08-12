@@ -33,9 +33,9 @@ Refer to the 12hourchallenge folder
 - What area of generative art/ design do I want to dive in or try? <br/>
 
 ## Images
-*Self Protrait* <br/>
+__Self Protrait__ <br/>
 <img src="https://github.com/ChantelLai/Slave-to-the-Algorithm/blob/master/Week%202/SelfPortrait.png" alt="SelfPortrait.png" border="0" width="500" height="420"/>
 <br/>
 
-*Experimental Processing* <br/>
+__Experimental Processing__ <br/>
 <img src="https://github.com/ChantelLai/Slave-to-the-Algorithm/blob/master/Week%202/Experimental.png" alt="Experimental.png" border="0" width="500" height="420"/>
