@@ -22,7 +22,16 @@ His work where it involves cotton weaving into tapestries are asethetically beau
 ## Final Thoughts <br/>
 
 ## Images 
-__Jacquard woven cotton on wood stretcher__ <br/>
-_Raw Data_
+__Jacquard woven cotton on wood stretcher (because they are SO COOL and AMAZING)__ <br/>
+_Raw Data_ <br/>
+<img src="https://github.com/ChantelLai/Slave-to-the-Algorithm/blob/master/Week%204/RawData-IMG_0319.jpg" alt="IMG_0319.jpg" border="0" width="500" height="700"/> <br/>
+
+_Mortal Threads - Ebola DNA_ <br/>
+<img src="https://github.com/ChantelLai/Slave-to-the-Algorithm/blob/master/Week%204/ViralCode_Ebola_61x76cm.jpg" alt="ViralCode_Ebola_61x76cm.jpg" border="0" width="500" height="700"/> <br/>
+
+_Intersitial Spaces - Smooth && || Striated_ <br/>
+<img src="https://github.com/ChantelLai/Slave-to-the-Algorithm/blob/master/Week%204/WEB-Normal_Gradients-IMG_0798.jpg" alt="WEB-Normal_Gradients-IMG_0798.jpg" border="0" width="700" height="500"/> <br/>
+
+
 
 
