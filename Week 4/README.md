@@ -32,6 +32,10 @@ _Mortal Threads - Ebola DNA_ <br/>
 _Intersitial Spaces - Smooth && || Striated_ <br/>
 <img src="https://github.com/ChantelLai/Slave-to-the-Algorithm/blob/master/Week%204/WEB-Normal_Gradients-IMG_0798.jpg" alt="WEB-Normal_Gradients-IMG_0798.jpg" border="0" width="700" height="500"/> <br/>
 
+_- Normal Sky_ <br/>
+<img src="https://github.com/ChantelLai/Slave-to-the-Algorithm/blob/master/Week%204/WEB-Normal_Gradients-IMG_0805.jpg" alt="WEB-Normal_Gradients-IMG_0805.jpg" border="0" width="700" height="500"/> <br/>
+
+
 
 
 
