@@ -30,6 +30,7 @@ Some things to think about and to do:<br/>
 
 ## Images<br/>
 Remix Self Protrait <br/>
+For Vinny's portrait I changed so that the brows and mouth move up and down and the pupils to move side to side. As well as made a keypress to change the background colour. <br/>
 <img src= https://github.com/ChantelLai/Slave-to-the-Algorithm/blob/master/Week%203/Remixportrait%20.png alt="Remixportrait%20.png" border="0" width="450" height="450"/>
 <br/>
 Test 1 of non human machine<br/>
