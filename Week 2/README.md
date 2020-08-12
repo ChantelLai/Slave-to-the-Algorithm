@@ -28,8 +28,9 @@ __Tim Rodenbroeker__
 Refer to the 12hourchallenge folder
 
 ## Images
-Self Protrait <br/>
-![](SelfPortrait.png)
+*Self Protrait* <br/>
+<img src="https://github.com/ChantelLai/Slave-to-the-Algorithm/blob/master/Week%202/SelfPortrait.png" alt="SelfPortrait.png" border="0" width="500" height="420"/>
+<br/>
 
-Experimental Processing <br/>
-![](Experimental.png)
+*Experimental Processing* <br/>
+<img src="https://github.com/ChantelLai/Slave-to-the-Algorithm/blob/master/Week%202/Experimental.png" alt="Experimental.png" border="0" width="500" height="420"/>
