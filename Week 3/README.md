@@ -29,15 +29,14 @@ Some things to think about and to do:<br/>
 - " Project = technology (possibility) + bluesky idea x life experience/ interest " - Andy 
 
 ## Images<br/>
-Remix Self Protrait <br/>
+_Remix Self Protrait_ <br/>
 For Vinny's portrait I changed so that the brows and mouth move up and down and the pupils to move side to side. As well as made a keypress to change the background colour. <br/>
 <img src= https://github.com/ChantelLai/Slave-to-the-Algorithm/blob/master/Week%203/Remixportrait%20.png alt="Remixportrait%20.png" border="0" width="450" height="450"/>
 <br/>
-Test 1 of non human machine<br/>
+_Test 1 of non human machine_ <br/>
 <img src= https://github.com/ChantelLai/Slave-to-the-Algorithm/blob/master/Week%203/IMG_1891.jpg alt="IMG_1891.jpg" border="0" width="500" height="650"/> <img src= https://github.com/ChantelLai/Slave-to-the-Algorithm/blob/master/Week%203/IMG_1901.jpg alt="IMG_1901.jpg" border="0" width="500" height="650"/>
 <br/>
-<br/>
-Test 2 of non human machine <br/>
+_Test 2 of non human machine_ <br/>
 <img src= https://github.com/ChantelLai/Slave-to-the-Algorithm/blob/master/Week%203/IMG_1914.jpg alt="IMG_1914.jpg" border="0" width="500" height="650"/> <img src= https://github.com/ChantelLai/Slave-to-the-Algorithm/blob/master/Week%203/IMG_1916.jpg alt="IMG_1916.jpg" border="0" width="500" height="650"/> 
 <img src= https://github.com/ChantelLai/Slave-to-the-Algorithm/blob/master/Week%203/IMG_1917.jpg alt="IMG_1917.jpg" border="0" width="500" height="650"/>
 
