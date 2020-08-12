@@ -11,11 +11,11 @@ At first when Karen was explaining the activity to create our own non human mach
 ## Pitch Project 
 
 
-## Images
-Remix Self Protrait 
+## Images<br/>
+Remix Self Protrait <br/>
 <img src= https://github.com/ChantelLai/Slave-to-the-Algorithm/blob/master/Week%203/Remixportrait%20.png alt="Remixportrait%20.png" border="0" width="450" height="450"/>
-
-Test 1 of non human machine
+<br/>
+Test 1 of non human machine<br/>
 <img src= https://github.com/ChantelLai/Slave-to-the-Algorithm/blob/master/Week%203/IMG_1891.jpg alt="IMG_1891.jpg" border="0" width="500" height="700"/> <img src= https://github.com/ChantelLai/Slave-to-the-Algorithm/blob/master/Week%203/IMG_1901.jpg alt="IMG_1901.jpg" border="0" width="500" height="700"/>
 
 
