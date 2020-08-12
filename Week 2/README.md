@@ -7,7 +7,7 @@ As an activity, we had to make a self protrait of ourselves. I was dissapointed 
 
 ## Research
 
-Karen had also shown some artists that vary in generative design. Some designers that I have researched and enjoy their work are:
+Karen had also shown some artists that vary in generative design. Some designers that I have researched and enjoy their work are: <br/>
 Ravon kwok <br/>
 Mark Dorf <br/>
 Tim Rodenbroeker <br/>
