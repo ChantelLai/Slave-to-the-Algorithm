@@ -13,11 +13,12 @@ At first when Karen was explaining the activity to create our own non human mach
 
 ## Images
 Remix Self Protrait 
-<img src= https://github.com/ChantelLai/Slave-to-the-Algorithm/blob/master/Week%203/Remixportrait%20.png> alt="Remixportrait%20.png" border="0" width="400" height="300"/>
+<img src= https://github.com/ChantelLai/Slave-to-the-Algorithm/blob/master/Week%203/Remixportrait%20.png alt="Remixportrait%20.png" border="0" width="450" height="450"/>
 
 Test 1 of non human machine
-![](IMG_1891.jpg)
-![](IMG_1901.jpg)
+<img src= https://github.com/ChantelLai/Slave-to-the-Algorithm/blob/master/Week%203/IMG_1891.jpg alt="IMG_1891.jpg" border="0" width="500" height="700"/> <img src= https://github.com/ChantelLai/Slave-to-the-Algorithm/blob/master/Week%203/IMG_1901.jpg alt="IMG_1901.jpg" border="0" width="500" height="700"/>
+
+
 
 Test 2 of non human machine
 ![](IMG_1914.jpg)
