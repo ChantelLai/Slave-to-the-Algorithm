@@ -27,6 +27,11 @@ __Tim Rodenbroeker__
 ## 12 hour Challenge
 Refer to the 12hourchallenge folder
 
+## Final Thoughts <br/>
+- Start thinking about what I want to achieve in this studio <br/>
+- What do I want to do for my pitch to then carry out for my final project <br/>
+- What area of generative art/ design do I want to dive in or try? <br/>
+
 ## Images
 *Self Protrait* <br/>
 <img src="https://github.com/ChantelLai/Slave-to-the-Algorithm/blob/master/Week%202/SelfPortrait.png" alt="SelfPortrait.png" border="0" width="500" height="420"/>
