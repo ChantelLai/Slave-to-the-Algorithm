@@ -1,2 +1,2 @@
-# Slave-to-the-Algorithm
-Hey! This is Chantel's repo
+# Slave to the Algorithm
+Welcome! 
