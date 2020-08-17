@@ -21,7 +21,11 @@ His work where it involves cotton weaving into tapestries are asethetically beau
 
 ## Final Thoughts <br/>
 
-## Images 
+## Images <br/>
+__Processing in Class__
+
+
+
 __Some of Stearn's work of jacquard woven cotton on wood stretcher (because they are SO COOL and AMAZING)__ <br/>
 _Raw Data_ <br/>
 <img src="https://github.com/ChantelLai/Slave-to-the-Algorithm/blob/master/Week%204/RawData-IMG_0319.jpg" alt="IMG_0319.jpg" border="0" width="500" height="700"/> <br/>
