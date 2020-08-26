@@ -27,3 +27,9 @@ Possible outcomes of this can be an exhibition to showcase individual weaving ar
 
 [link](https://docs.google.com/presentation/d/1yXphzEjNi4Kja0w3_Mqb0DXs9hAci_EOQ-94oI_QRQE/edit#slide=id.p) to google doc <br>
 
+## Other works that I've found interesting 
+[Poetrics](https://www.vice.com/en_us/article/78eezq/a-london-billboard-is-displaying-poetry-generated-by-the-people) by Google <br>
+[Rubik Cube Music](https://www.vice.com/en_uk/article/ez5pme/rubiks-cube-musical-instrument) by Hakab Libdo <br>
+[Decisive Mirror](http://sebastianschmieg.com/decisive-mirror/) by Sebastian Schmieg
+
+
