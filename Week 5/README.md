@@ -4,7 +4,6 @@ Todays classes was all catered to our project pitch presentations. From viewing 
 
 ## Final Project Pitch <br>
 ### Visible Secrets <br>
-[link](https://docs.google.com/presentation/d/1yXphzEjNi4Kja0w3_Mqb0DXs9hAci_EOQ-94oI_QRQE/edit#slide=id.p) to google doc <br>
 __Context__ <br>
 Secrets,something that is kept or meant to be kept unknown or unseen by others. For this project I wanted to contradict that. I want to explore the idea of secrets as it is an interesting topic that divides truth and deception. I also wanted to demonstrate a way to show human attachment to words. <br>
 
@@ -25,4 +24,6 @@ A polygraph test see changes in heart rate, blood pressure and perspiration. It 
 
 __Outcomes__ <br>
 Possible outcomes of this can be an exhibition to showcase individual weaving art pieces from the different users of the wavelengths the polygraph produces. Or it can create one large tapestry that combines all of the users data image. Or even the measurements from the polygraph test can be represented by a shape/pattern/object/colours to create a larger and random abstract art piece. Or can all be digitalised with a similar concept. <br>
+
+[link](https://docs.google.com/presentation/d/1yXphzEjNi4Kja0w3_Mqb0DXs9hAci_EOQ-94oI_QRQE/edit#slide=id.p) to google doc <br>
 
