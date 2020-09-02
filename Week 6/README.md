@@ -13,3 +13,4 @@ Our group decided on bomberman, an old favourite. As looking back now, i've real
 
 ### Processing <br>
 We also experimented with p5.js in Processing which I was very excited about as we were learning about sound and audio. 
+<img src="https://github.com/ChantelLai/Slave-to-the-Algorithm/blob/master/Week%206/ProcessingAudio.gif" border="0" width="500" height="300"/>
