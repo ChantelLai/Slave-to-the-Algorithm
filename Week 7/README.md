@@ -1,6 +1,9 @@
 # Week 7 <br/> 
 ## In Class <br/> 
 ### Pseudo code <br/> 
+_["Pseudocode is a plain language description of the steps in an algorithm or another system. Pseudocode often uses structural conventions of a normal programming language, but is intended for human reading rather than machine reading."](https://en.wikipedia.org/wiki/Pseudocode)_ <br/>
+This is a simple pseudo code of a task I do daily, eating and drinking. <br/>
+
 Input hunger <br/> 
 IF thirsty <br/> 
   make coffee <br/> 
