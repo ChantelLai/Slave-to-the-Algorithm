@@ -19,7 +19,8 @@ END IF not hungry <br/>
 OUTPUT satisfied <br/> 
 
 ### Paper Prototype <br/> 
-
+Prototype of what the structure of the project would look like <br/> 
+<img src="https://github.com/ChantelLai/Slave-to-the-Algorithm/blob/master/Week%207/PaperPrototype.gif" border="0" width="600" height="400"/> 
 
 ### Processing <br/> 
 Processing session on moving text (not sure why my letters came out japanese?) <br/> 
