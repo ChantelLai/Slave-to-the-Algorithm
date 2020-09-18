@@ -42,3 +42,7 @@ Speech to text experimentation in todays workshop! Which will be very helpful fo
 
 ## Project Now <br>
 I've tried to explore speech to text library, however I did not know how to import it. But luckily Karen went through it in class. 
+
+### Notable Examples
+[P5.SpeechRecContinuous](https://idmnyu.github.io/p5.js-speech/examples/05continuousrecognition.html)
+
