@@ -43,6 +43,7 @@ background(0);
     text("SECRET IS KEPT",300,100);
     fill(255,0,0);
     textSize(20);
+    textAlign(CENTER,CENTER);
     text("PRESS SPACE TO RESTART", 500,800);
   }
 
