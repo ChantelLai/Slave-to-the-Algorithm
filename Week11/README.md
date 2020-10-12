@@ -1,5 +1,5 @@
 # Week 11
-## Difficulties 
+## Going down hill from here...
 Struggling a lot with just the idea and on what to do which isn't really the ideal situation to be in in week 11. At this point kinetic typography has caught my eye for the input of text to become. However, im unsure how to achieve this. I have seen some examples like [Tim Rodenbroeker](https://timrodenbroeker.de/processing-tutorial-kinetic-typography-1/) kinetic typography and have played around with that as well as altering it. I've altered the starting game sketch by placing a text menu to orgainse the sketch. <br>
 
 __Kinetic Typography__ <br>
