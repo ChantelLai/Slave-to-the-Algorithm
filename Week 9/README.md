@@ -6,5 +6,7 @@ I have made a slight change for my project. Instead of producing an image from t
 ![](https://github.com/ChantelLai/Slave-to-the-Algorithm/blob/master/Week%209/GameProgess.gif)
 
 ## In class <br> 
-![](https://github.com/ChantelLai/Slave-to-the-Algorithm/blob/master/Week%209/twoCanvases.png)
+Karen showing to do two canvases on a screen <br> 
+![](https://github.com/ChantelLai/Slave-to-the-Algorithm/blob/master/Week%209/twoCanvases.png)<br> 
+Playing with type and text <br> 
 ![](https://github.com/ChantelLai/Slave-to-the-Algorithm/blob/master/Week%209/Screen%20Shot%202020-09-25%20at%202.42.10%20pm.png)
