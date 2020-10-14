@@ -1,7 +1,7 @@
 # Week 10 
 ## Progress of Project 
 __P5 Play__ <br>
-I have been playing around with the p5 play libary to create my game. I have experimented with animations. [Allison Parrish's](https://creative-coding.decontextualize.com/making-games-with-p5-play/) site really helped me to start the game and to try different techniques. However, the sketch I made was a bit glitchy in terms of the animation not overlapping the coins and restarting the game. <br>
+I have been playing around with the p5 play libary to create my game. I have experimented with animations. [Allison Parrish's](https://creative-coding.decontextualize.com/making-games-with-p5-play/) site really helped me to start the game and to try different techniques. However, the sketch I made was a bit glitchy in terms of the animation not overlapping the coins and restarting the game. _GhostPlay01 is the updated version_ <br> 
 ![](https://github.com/ChantelLai/Slave-to-the-Algorithm/blob/master/Week%2010/GhostPlay.gif)
 
 https://chantellai.github.io/Slave-to-the-Algorithm/Week-10/Ghostplay
