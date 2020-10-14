@@ -14,9 +14,9 @@ Trying to understand code language and overall the process of coding was a lot t
 The knowledge that i've gained from this course was super helpful as it gave me an insight of the basics of web design and generative art production, and that's what I will take away from this. I really enjoyed researching generative art designers and seeing the limitless outcomes you can produce with so many unique concepts. It was a wow factor. This whole course was a WOW factor. I really give props to Karen who made the learning experience engaging and fun and her understanding of the hardships of coding. 
 
 __Resources/Sources/References__<br>
-[Text Menu](https://www.youtube.com/watch?v=TgHhEzKlLb4)<br>
-[Input field](https://p5js.org/examples/dom-input-and-button.html) <br>
-[Playing with generative typography](https://madebypi.co.uk/blog/playing-about-with-generative-typography/)<br>
+[Text Menu](https://www.youtube.com/watch?v=TgHhEzKlLb4) - Tut on how text menu works<br>
+[Input field](https://p5js.org/examples/dom-input-and-button.html) - Adding in the input field <br>
+[Playing with generative typography](https://madebypi.co.uk/blog/playing-about-with-generative-typography/) - How the kinetic typography is produced <br>
 _Atrists_<br>
-[Reza Ali](https://www.syedrezaali.com/generative-typography-experiments/)<br>
+[Reza Ali](https://www.syedrezaali.com/generative-typography-experiments/) - Artist I found who does really cool generative typography <br>
 
