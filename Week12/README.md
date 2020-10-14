@@ -2,7 +2,7 @@
 __Update on project__ <br> 
 This is what I have so far... I know not much. Karen has helped me to redirect myself and my situation. Right now the concept is to deconstruct and reconstruct the mysterious idea of a secret/confession. Deconstructing the secret for it to no longer be readable metephorically represents a secret in hiding. Thats where the generative design is introduced, creating 'glitchy' text from the user's input. If this project was fully completed, I think it'll be a great tool for those who are bad at keeping in secrets aha. <br> 
 
-Adding in a text menu/ mode really helped, as it organised the sketch and made it less confusing for me. Also created an input field, and instead of a button I've decided to do a key press as I thought that made more sense. Inplementing the typography aspect was tricky at first and still isn't up to its par, however I have somewhat combined the two sketches to finally produce an imcomplete, poorly drawn project? I still need to play around with the parameters and distortions. <br> 
+Adding in a text menu/ mode really helped, as it organised the sketch and made it less confusing for me. Also created an input field, and instead of a button I've decided to do a key press as I thought that made more sense. Inplementing the typography aspect was tricky at first and still isn't up to its par, however I have somewhat combined the two sketches to finally produce an imcomplete, poorly drawn project? I still need to play around with the parameters and distortions. As well as trying to get the input.value() to perform the animation. <br> 
 
 ![](https://github.com/ChantelLai/Slave-to-the-Algorithm/blob/master/Week12/DeconstructionConfession.gif) <br> 
 
