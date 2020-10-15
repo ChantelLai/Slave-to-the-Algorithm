@@ -32,7 +32,11 @@ THEN produce art work (type) <br>
 OUTPUT construction and deconstruction of confession <br>
 
 __References/sources__ <br>
-_[Kirell Benzi Data Visualisation](https://www.kirellbenzi.com/art/secret-knowledge)_ - An artist who specialises in this field<br>
+[Kyuha Shim](https://kyuhashim.com/), also refers to Q, specialises is a computational designer and researcher. The center to his practice is the use of computational thinking as a methodology for design in creating generative systems informed and driven by data. His work is amazing and beautifully designed. <br>
+Kyuha Shim's [Code and Type](http://code-type.com/) <br>
+<img src="https://github.com/ChantelLai/Slave-to-the-Algorithm/blob/master/Week11/Screen%20Shot%202020-10-15%20at%2011.36.05%20pm.png" width="400" height="200"> <br>
+
+_[Kirell Benzi Data Visualisation](https://www.kirellbenzi.com/art/secret-knowledge)_ - An artist who specialises in data visualisation<br>
 _[Exploring Data Visalisation](https://www.creativebloq.com/how-to/data-visualisation-with-p5js)_ - Different tools, libaries and softwares for data visualisation <br>
 _[Kinetic Typography p5js](https://editor.p5js.org/mehow_one/sketches/h5sdeQ4jc)_ - Kinetic type sketch in p5js <br>
 
