@@ -1,6 +1,6 @@
 # Week 11
 ## Going down hill from here...
-Struggling a lot with just the idea and on what to do which isn't really the ideal situation to be in in week 11. At this point kinetic typography has caught my eye for the input of text to become. However, im unsure how to achieve this. I have seen some examples like [Tim Rodenbroeker](https://timrodenbroeker.de/processing-tutorial-kinetic-typography-1/) kinetic typography and have played around with that as well as altering it. I've altered the starting game sketch by placing a text menu to orgainse the sketch. <br>
+Struggling a lot with just the idea and on what to do which isn't really the ideal situation to be in in week 11. From the game last week, i've just been stuck and in a slump not knowing where to go from there. At this point kinetic typography has caught my eye for the input of text to become. However, im unsure how to achieve this. I have seen some examples like [Tim Rodenbroeker](https://timrodenbroeker.de/processing-tutorial-kinetic-typography-1/) kinetic typography and have played around with that as well as altering it. I've altered the starting game sketch by placing a text menu to orgainse the sketch. I like the idea of typography being a generative element as it relates to both design practices and generative art practices, which both can be useful for future exploration.  <br>
 
 __Kinetic Typography__ <br>
 <img src= "https://github.com/ChantelLai/Slave-to-the-Algorithm/blob/master/Week11/Screen%20Shot%202020-10-12%20at%204.33.00%20pm.png" width="550" height="300"> <br>
@@ -13,7 +13,7 @@ So instead I dug into JSON data files and implementing them into p5js. I followe
 <img src="https://github.com/ChantelLai/Slave-to-the-Algorithm/blob/master/Week11/Screen%20Shot%202020-10-12%20at%204.49.55%20pm.png" width="400" height="400"> <br>
 <img src="https://github.com/ChantelLai/Slave-to-the-Algorithm/blob/master/Week11/JSONData%20pm.png" width="200" height="400"> <br> 
 
-Pseudocode Update <br>
+__Pseudocode Update__ <br>
 FUNCTION make kinetic/deconstructing text <br>
 INPUT confession text <br>
 FOR text written <br>
