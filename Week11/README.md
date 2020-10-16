@@ -31,13 +31,23 @@ ELSE IF keyPressed shows original confession text <br>
 THEN produce art work (type) <br>
 OUTPUT construction and deconstruction of confession <br>
 
-__References/sources__ <br>
+## References/sources <br>
+__Kyuha Shim__ <br>
 [Kyuha Shim](https://kyuhashim.com/), also refers to Q, specialises is a computational designer and researcher. The center to his practice is the use of computational thinking as a methodology for design in creating generative systems informed and driven by data. His work is amazing and beautifully designed. <br>
+
 Kyuha Shim's [Code and Type](http://code-type.com/) <br>
 <img src="https://github.com/ChantelLai/Slave-to-the-Algorithm/blob/master/Week11/Screen%20Shot%202020-10-15%20at%2011.36.05%20pm.png" width="400" height="200"> <br>
+
 [Ze Wang](https://zewang.info/Generative-Typography) - Speciallises in generative typography
 _[Kirell Benzi Data Visualisation](https://www.kirellbenzi.com/art/secret-knowledge)_ - An artist who specialises in data visualisation<br>
 _[Exploring Data Visalisation](https://www.creativebloq.com/how-to/data-visualisation-with-p5js)_ - Different tools, libaries and softwares for data visualisation <br>
 _[Kinetic Typography p5js](https://editor.p5js.org/mehow_one/sketches/h5sdeQ4jc)_ - Kinetic type sketch in p5js <br>
+
+__Theories__ <br>
+[The Effect Of Typography On User Experience And Conversions](https://cxl.com/blog/the-effects-of-typography-on-user-experience-conversions/#:~:text=Typography%20is%20body%20language.,research%20to%20back%20this%20up.)<br> 
+[Generative Typography: Symbols And Animations With Variable Fonts](https://www.pixartprinting.co.uk/blog/generative-typography-variable-fonts/#:~:text=Since%20typography%20is%20traditionally%20a,based%20on%20a%20single%20font.)<br> 
+
+
+
 
  
