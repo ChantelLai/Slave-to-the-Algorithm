@@ -6,6 +6,14 @@ Adding in a text menu/ mode really helped, as it organised the sketch and made i
 
 ![](https://github.com/ChantelLai/Slave-to-the-Algorithm/blob/master/Week12/DeconstructionConfession.gif) <br> 
 
+## Fail Experiment <br>
+Was following a [tutorial](https://www.youtube.com/watch?v=G6o_BZqSkSw) on how to morphe letters. However failed lol.  <br>
+<img src= "https://github.com/ChantelLai/Slave-to-the-Algorithm/blob/master/Week12/Screen%20Shot%202020-10-16%20at%201.58.56%20pm.png" width="300" height="300"> <br>
+
+Also found some generative libaries <br>
+Generative Typography #1 - [Amnonowed](https://github.com/AmnonOwed/CAN_GenerativeTypography) <br>
+Generative Typography #2 - [Kontur](https://github.com/kontur/generative-typography) <br>
+
 ## Just some final thoughts of the course overall <br>
 I think it's safe to say that coding is not my forte. I've really underestimated the work of coding, generative design and in general web based sources. Making small things can lead to large coding sketches. It's hard work. I choose this course purely to experience something i've never done before, to try something new, and I did. The course succeed my expectations and I'm satisfied honestly. <br> 
 
@@ -17,6 +25,7 @@ The knowledge that i've gained from this course was super helpful as it gave me 
 [Text Menu](https://www.youtube.com/watch?v=TgHhEzKlLb4) - Tut on how text menu works<br>
 [Input field](https://p5js.org/examples/dom-input-and-button.html) - Adding in the input field <br>
 [Playing with generative typography](https://madebypi.co.uk/blog/playing-about-with-generative-typography/) - How the kinetic typography is produced <br>
+[TextToPoints Tut](https://www.youtube.com/watch?v=wbDF6xcgvV8)<br>
 __Atrists__<br>
 [Reza Ali](https://www.syedrezaali.com/generative-typography-experiments/) - Artist I found who does really cool generative typography <br>
 
