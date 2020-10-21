@@ -44,8 +44,8 @@ _[Exploring Data Visalisation](https://www.creativebloq.com/how-to/data-visualis
 _[Kinetic Typography p5js](https://editor.p5js.org/mehow_one/sketches/h5sdeQ4jc)_ - Kinetic type sketch in p5js <br>
 
 __Theories__ <br>
-[The Effect Of Typography On User Experience And Conversions](https://cxl.com/blog/the-effects-of-typography-on-user-experience-conversions/#:~:text=Typography%20is%20body%20language.,research%20to%20back%20this%20up.)<br> 
-[Generative Typography: Symbols And Animations With Variable Fonts](https://www.pixartprinting.co.uk/blog/generative-typography-variable-fonts/#:~:text=Since%20typography%20is%20traditionally%20a,based%20on%20a%20single%20font.)<br> 
+[The Effect Of Typography On User Experience And Conversions](https://cxl.com/blog/the-effects-of-typography-on-user-experience-conversions/#:~:text=Typography%20is%20body%20language.,research%20to%20back%20this%20up.) - looks at the users experience of typography and how it can impact their perspective. <br> 
+[Generative Typography: Symbols And Animations With Variable Fonts](https://www.pixartprinting.co.uk/blog/generative-typography-variable-fonts/#:~:text=Since%20typography%20is%20traditionally%20a,based%20on%20a%20single%20font.) - shows how advanced generative typography is and can be with the technology available nowadays. <br> 
 
 
 
