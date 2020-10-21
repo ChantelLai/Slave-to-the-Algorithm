@@ -33,8 +33,10 @@ THEN weaving image <br/>
 END IF image is complete <br/> 
 OUTPUT weaving tapestry  <br/> 
 
-### Feedback on Project <br>
+### Experimentation <br>
+To further explore weavings from last week. I've experimented with weaving type animations on processing to determine how I could somehow mimic a weaving gesture. I've found some examples and altered them to the point where it's erratic and entwine like. This could potentially be an outcome of the project  <br>
 
+<img src="https://github.com/ChantelLai/Slave-to-the-Algorithm/blob/master/Week%208/ContinuousLines.gif" width="400" height="250"/>   <img src="https://github.com/ChantelLai/Slave-to-the-Algorithm/blob/master/Week%208/LinesMovingfromsideofscreen.gif" width="250" height="250"/>   <img src="https://github.com/ChantelLai/Slave-to-the-Algorithm/blob/master/Week%208/MovingLinesTopBottom.gif" width="250" height="250"/>
 
 ### Processing - Speech to Text <br>
 Speech to text experimentation in todays workshop! Which will be very helpful for my project. <br>
