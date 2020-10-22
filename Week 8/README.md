@@ -43,7 +43,13 @@ Speech to text experimentation in todays workshop! Which will be very helpful fo
 <img src="https://github.com/ChantelLai/Slave-to-the-Algorithm/blob/master/Week%208/SpeechtoText.gif" border="0" width="600" height="380"/>
 
 ## Project Now <br>
-I've decided to use the speech library as a tool for the input of my project. I've explore speech to text library, however I did not know how to import it. But luckily Karen went through it in class. So far im not sure what I want the appearance/asethetic/theme of the project to look like just yet. I do want the project to be a web based site where users can go on and test. 
+I've decided to use the speech library as a tool for the input of my project. I've explore speech to text library, however I did not know how to import it. But luckily Karen went through it in class. So far im not sure what I want the appearance/asethetic/theme of the project to look like just yet. I do want the project to be a web based site where users can go on and test. <br>
+
+__Questions to think about__ <br> 
+- How can these secrets be turned in a weaving animation? <br>
+- How will the user be inputing their words? <br>
+- What is the purpose for this? <br>
+
 
 ### Notable Examples
 [P5.SpeechRecContinuous](https://idmnyu.github.io/p5.js-speech/examples/05continuousrecognition.html)
