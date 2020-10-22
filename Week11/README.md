@@ -5,6 +5,11 @@ Struggling a lot with just the idea and on what to do which isn't really the ide
 __Kinetic Typography__ <br>
 <img src= "https://github.com/ChantelLai/Slave-to-the-Algorithm/blob/master/Week11/Screen%20Shot%202020-10-12%20at%204.33.00%20pm.png" width="550" height="300"> <br>
 
+__Questions to think about__ <br>
+- How will you bounce back from this? <br>
+- What can you achieve with the resources you have to produce something mediocore or better? <br>
+- The power of typography <br>
+
 ## Other Research 
 Data visualisation experiment <br>
 While trying to collect my thoughts and composure, I decided to experiment with data visualisation just to get my mind off things. I was generally researching about data visualisation and came across [tsne data visualisation](https://distill.pub/2016/misread-tsne/), which is a data visualisation tool used for high dimensional data. I found it really interesting how the use of clusters and perplexity works as well as the visuals being so mesmorizing. I wanted to explore and experiment with tsne, however, I found that it's not as easy as it seems... This is used for high dimensional data, bascially very complex data, in which I dont have. <br>
