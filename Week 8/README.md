@@ -34,7 +34,7 @@ END IF image is complete <br/>
 OUTPUT weaving tapestry  <br/> 
 
 ### Experimentation <br>
-To further explore weavings from last week. I've experimented with weaving type animations on processing to determine how I could somehow mimic a weaving gesture. I've found some examples and altered them to the point where it's erratic and entwine like. This could potentially be an outcome of the project  <br>
+To further explore weavings from last week. I've experimented with weaving type animations on processing to determine how I could somehow mimic a weaving gesture. I've found some examples and altered them to the point where it's erratic and entwine like. This experimentation in class has lead me to the idea of potentially using this tool for the project. <br>
 
 <img src="https://github.com/ChantelLai/Slave-to-the-Algorithm/blob/master/Week%208/ContinuousLines.gif" width="400" height="250"/>   <img src="https://github.com/ChantelLai/Slave-to-the-Algorithm/blob/master/Week%208/LinesMovingfromsideofscreen.gif" width="250" height="250"/>   <img src="https://github.com/ChantelLai/Slave-to-the-Algorithm/blob/master/Week%208/MovingLinesTopBottom.gif" width="250" height="250"/>
 
