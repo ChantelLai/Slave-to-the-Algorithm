@@ -8,6 +8,11 @@ I have made a slight change for my project as I was stuck on how to go further w
 ![](https://github.com/ChantelLai/Slave-to-the-Algorithm/blob/master/Week%209/StartGame.gif) <br>
 ![](https://github.com/ChantelLai/Slave-to-the-Algorithm/blob/master/Week%209/GameProgess.gif) <br>
 
+__Questions to think about__ <br>
+- How will you combine both sketches as well as add in the speech to text tool? <br>
+- Can P5.play help with this project? <br>
+- How will these letters effect the users experience? <br>
+
 [This example](https://p5js.org/examples/interaction-snake-game.html) guided me with how to create somewhat of a moving game, the up, down, left and right arrow keys. The letters that pop up are from a sketch that we went through in class from karen. So i've taken some lines of code from there and combined it with the game. I now need to figure out how to combine both the starting page and game together. 
 
 ## In class <br> 
@@ -15,7 +20,6 @@ Karen showing to do two canvases on a screen <br>
 <img src="https://github.com/ChantelLai/Slave-to-the-Algorithm/blob/master/Week%209/twoCanvases.png" border="0" width="500" height="300"/>
 Playing with type and text <br> 
 <img src="https://github.com/ChantelLai/Slave-to-the-Algorithm/blob/master/Week%209/Screen%20Shot%202020-09-25%20at%202.42.10%20pm.png" border="0" width="500" height="300"/>
-
 
 ## Research/ Artists <br> 
 Sebastian Schmieg - [Segmentation.Network](https://www.vice.com/en/article/bmybpw/artificial-neural-network-visualization) - visualizes the image outlines created by Amazon Mechanical Turk workers for Microsoft’s COCO project. It plays back is a random collage of image segmentations at their original position. Each segmentation consists of multiple coordinates, and the piece shows the manual process of creating these coordinates in fast-forward.
